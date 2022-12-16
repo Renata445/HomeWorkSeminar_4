@@ -1,0 +1,15 @@
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\bin\Debug\net6.0\Task_SuperSdvig.exe
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\bin\Debug\net6.0\Task_SuperSdvig.deps.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\bin\Debug\net6.0\Task_SuperSdvig.runtimeconfig.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\bin\Debug\net6.0\Task_SuperSdvig.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\bin\Debug\net6.0\Task_SuperSdvig.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\Task_SuperSdvig.csproj.AssemblyReference.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\Task_SuperSdvig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\Task_SuperSdvig.AssemblyInfoInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\Task_SuperSdvig.AssemblyInfo.cs
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\Task_SuperSdvig.csproj.CoreCompileInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\Task_SuperSdvig.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\refint\Task_SuperSdvig.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\Task_SuperSdvig.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\Task_SuperSdvig.genruntimeconfig.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar_4\Task_SuperSdvig\obj\Debug\net6.0\ref\Task_SuperSdvig.dll
